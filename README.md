@@ -1,14 +1,14 @@
  
  <div align="center"><img src="https://media.giphy.com/media/cX91DIAye9JBUhkA5N/giphy.gif"/></div>
 
-<h1 align="center">Hi 👋, I'm Damian Amaya</h1>
+<h1 align="center">Hi 👋, I'm Yan Marcos Ortiz </h1>
 <h3 align="center">I'm a passionate developer of new trends and always in search of new challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damamyq&label=Profile%20views&color=0e75b6&style=flat" alt="damamyq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yan1710&label=Profile%20views&color=0e75b6&style=flat" alt="Yan1710" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damamyq&no-bg=true&no-frame=true&theme=gruvbox" alt="damamyq" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yan1710&no-bg=true&no-frame=true&theme=gruvbox" alt="Yan1710" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/damianeamaya" target="blank"><img src="https://img.shields.io/twitter/follow/damianeamaya?logo=twitter&style=for-the-badge" alt="damianeamaya" /></a> </p>
+
 
 
 - 🔭 I’m currently working on [Poner proyecto](link proyecto github)
@@ -19,9 +19,9 @@
 
 - 👨‍💻 All of my projects are available at [http//:ponerportafolio](http//:ponerportafolio)
 
-- 💬 Ask me about **Android development, Kotlin, Java, Python, OpenCV a bit of tensorflow**
+- 💬 Ask me about **Android development, Kotlin, Java, Sprinboot,Angular, OpenCV a bit of tensorflow**
 
-- 📫 How to reach me **damianamaya78@gmail.com**
+- 📫 How to reach me **Ortizyan45@gmail.com**
 
 - 📄 Know about my experiences [poner experiencia en proyectos](poner experiencia en proyectos)
 
@@ -71,5 +71,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damamyq&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="damamyq" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damamyq&show_icons=true&locale=en&theme=github_dark" alt="damamyq" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damamyq&show_icons=true&theme=github_dark" alt="damamyq" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yan1710&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Yan1710" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yan1710&show_icons=true&locale=en&theme=github_dark" alt="Yan1710" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yan1710&show_icons=true&theme=github_dark" alt="Yan1710" /></p>
 </p>
