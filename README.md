@@ -31,7 +31,7 @@
 ### 🤝🏻 &nbsp; Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/in/yan-marcos-ortiz-martinez-950192154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yan Marcos Ortiz Martinez" height="30" width="40" /></a><a href="https://instagram.com/ponerinstagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ponerinstagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yan-marcos-ortiz-martinez-950192154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yan Marcos Ortiz Martinez" height="30" width="40" /></a><a href="https://www.instagram.com/yan_marcoslml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yan_marcoslml" height="30" width="40" /></a>
 </p>
 
 ### 🛠 &nbsp; Languages and tools:
